@@ -2,15 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9067cff0-5d49-40d5-911c-c9417928fa9e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/nicescroll.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/slides/roambi-0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/slides/roambi-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/slides/roambi-2.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slides/roambi-0.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/slides/roambi-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/slides/roambi-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/slides/roambi-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/slides/roambi-3.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/mystand-0.jpg" afterPath="$PROJECT_DIR$/img/slides/mystand-0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/mystand-1.jpg" afterPath="$PROJECT_DIR$/img/slides/mystand-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/mystand-2.jpg" afterPath="$PROJECT_DIR$/img/slides/mystand-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/never-0.jpg" afterPath="$PROJECT_DIR$/img/slides/never-0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/never-1.jpg" afterPath="$PROJECT_DIR$/img/slides/never-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/never-2.jpg" afterPath="$PROJECT_DIR$/img/slides/never-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/powur-0.jpg" afterPath="$PROJECT_DIR$/img/slides/powur-0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/powur-1.jpg" afterPath="$PROJECT_DIR$/img/slides/powur-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/powur-2.jpg" afterPath="$PROJECT_DIR$/img/slides/powur-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/themall-0.jpg" afterPath="$PROJECT_DIR$/img/slides/themall-0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/themall-1.jpg" afterPath="$PROJECT_DIR$/img/slides/themall-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/themall-2.jpg" afterPath="$PROJECT_DIR$/img/slides/themall-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/walker-0.jpg" afterPath="$PROJECT_DIR$/img/slides/walker-0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/walker-1.jpg" afterPath="$PROJECT_DIR$/img/slides/walker-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/walker-2.jpg" afterPath="$PROJECT_DIR$/img/slides/walker-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/thumb-1.jpg" afterPath="$PROJECT_DIR$/img/thumb-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/thumb-2.jpg" afterPath="$PROJECT_DIR$/img/thumb-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/thumb-3.jpg" afterPath="$PROJECT_DIR$/img/thumb-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/thumb-4.jpg" afterPath="$PROJECT_DIR$/img/thumb-4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/thumb-5.jpg" afterPath="$PROJECT_DIR$/img/thumb-5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/thumb-6.jpg" afterPath="$PROJECT_DIR$/img/thumb-6.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/index.js" afterPath="$PROJECT_DIR$/scripts/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/modal.js" afterPath="$PROJECT_DIR$/scripts/modal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/style.css" afterPath="$PROJECT_DIR$/style/style.css" />
     </list>
     <ignored path="jin09.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,8 +55,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-915">
-              <caret line="435" column="42" selection-start-line="435" selection-start-column="42" selection-end-line="435" selection-end-column="42" />
+            <state relative-caret-position="-52">
+              <caret line="330" column="47" selection-start-line="330" selection-start-column="47" selection-end-line="330" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -55,53 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="1138" column="0" selection-start-line="1138" selection-start-column="0" selection-end-line="1138" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="modal.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/modal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="canvas.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/canvas.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nicescroll.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/nicescroll.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#40#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3114">
-              <caret line="173" column="31" selection-start-line="173" selection-start-column="31" selection-end-line="173" selection-end-column="31" />
+            <state relative-caret-position="822">
+              <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -124,8 +102,8 @@
       <list>
         <option value="$PROJECT_DIR$/scripts/nicescroll.js" />
         <option value="$PROJECT_DIR$/scripts/index.js" />
-        <option value="$PROJECT_DIR$/scripts/modal.js" />
         <option value="$PROJECT_DIR$/style/style.css" />
+        <option value="$PROJECT_DIR$/scripts/modal.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -196,20 +174,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="style" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jin09.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jin09.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -224,7 +188,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jin09.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jin09.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slides" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -568,12 +550,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/modal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/img/blog-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/blog-2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/me.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/thumb-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/thumb-3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/thumb-2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/slides/roambi-0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style/style.css">
@@ -584,10 +593,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-915">
-          <caret line="435" column="42" selection-start-line="435" selection-start-column="42" selection-end-line="435" selection-end-column="42" />
+        <state relative-caret-position="-52">
+          <caret line="330" column="47" selection-start-line="330" selection-start-column="47" selection-end-line="330" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
