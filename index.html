@@ -22,7 +22,12 @@
     <script src="scripts/pt.min.js"></script>
     <script src="scripts/index.js"></script>
     <script src="scripts/modal.js"></script>
-
+    <!--<script src="scripts/nicescroll.js"></script>-->
+    <!--<script>-->
+        <!--$(document).ready(function () {-->
+            <!--$("body").niceScroll();-->
+        <!--});-->
+    <!--</script>-->
     <style>
         .love{color:red}
         .last:hover{
@@ -94,7 +99,7 @@
                     <div class="active page-link" dest="home">home</div>
                     <div class="page-link" dest="about">about</div>
                     <div class="page-link" dest="portfolio">portfolio</div>
-                    <div class="page-link" dest="blog">blog</div>
+                    <div class="page-link" dest="blog">resume</div>
                     <div class="page-link" dest="contact">contact</div>
                 </div>
                 <i class="mdi mdi-menu"></i>
@@ -279,6 +284,8 @@
         </div>
     </section>
 
+
+
     <!-- PORTFOLIO -->
     <section class="flex" id="portfolio">
 
@@ -288,83 +295,83 @@
         <div class="filter-wrap waypoint" data-animation="fade-in">
             <div class="flex row">
                 <div class="filter" data-filter="all">ALL</div>
-                <div class="filter" data-filter=".node">NODE.JS</div>
-                <div class="filter" data-filter=".rails">RUBY/RAILS</div>
-                <div class="filter" data-filter=".js">JAVASCRIPT</div>
+                <!--<div class="filter" data-filter=".node">NODE.JS</div>-->
+                <!--<div class="filter" data-filter=".rails">RUBY/RAILS</div>-->
+                <!--<div class="filter" data-filter=".js">JAVASCRIPT</div>-->
             </div>
             <div class="float-bar">
                 <div class="flex row">
                     <div class="filter" data-filter="all">ALL</div>
-                    <div class="filter" data-filter=".node">NODE.JS</div>
-                    <div class="filter" data-filter=".rails">RUBY/RAILS</div>
-                    <div class="filter" data-filter=".js">JAVASCRIPT</div>
+                    <!--<div class="filter" data-filter=".node">NODE.JS</div>-->
+                    <!--<div class="filter" data-filter=".rails">RUBY/RAILS</div>-->
+                    <!--<div class="filter" data-filter=".js">JAVASCRIPT</div>-->
                 </div>
             </div>
         </div>
 
         <div id="gallery" class="container flex row wrap waypoint">
-            <div class="mix js" data-my-order="1">
+            <div class="mix js cards" data-my-order="1">
                 <div>
                     <div class="card"></div>
                     <div class="text">
-                        <div class="bold">Roambi</div>
-                        <span class="highlight">Pure JavaScript</span>
+                        <div class="bold">Orahi Admin Dashboard</div>
+                        <span class="highlight">Python Webapp2</span>
                     </div>
                     <div class="button" id="roambi">LEARN MORE</div>
                 </div>
             </div>
 
-            <div class="mix rails" data-my-order="1">
+            <div class="mix rails cards" data-my-order="1">
                 <div>
                     <div class="card"></div>
                     <div class="text">
-                        <div class="bold">Walker Tracker</div>
-                        <span class="highlight">Ruby on Rails+ JS</span>
+                        <div class="bold">Ayursparsh Healthcare</div>
+                        <span class="highlight">Python</span>
                     </div>
                     <div class="button" id="walker">LEARN MORE</div>
                 </div>
             </div>
 
-            <div class="mix node" data-my-order="1">
+            <div class="mix node cards" data-my-order="1">
                 <div>
                     <div class="card"></div>
                     <div class="text">
-                        <div class="bold">MY STAND</div>
-                        <span class="highlight">Node.js on Sails</span>
+                        <div class="bold">Singhania Chemicals</div>
+                        <span class="highlight">Python</span>
                     </div>
                     <div class="button" id="mystand">LEARN MORE</div>
                 </div>
             </div>
 
-            <div class="mix js" data-my-order="1">
+            <div class="mix js cards" data-my-order="1">
                 <div>
                     <div class="card"></div>
                     <div class="text">
-                        <div class="bold">NEVER SURRENDER</div>
-                        <span class="highlight">Pure JavaScript</span>
+                        <div class="bold">Applications of Neuroscience</div>
+                        <span class="highlight">Android, Firebase</span>
                     </div>
                     <div class="button" id="never">LEARN MORE</div>
                 </div>
             </div>
 
-            <div class="mix rails" data-my-order="1">
+            <div class="mix rails cards" data-my-order="1">
                 <div>
                     <div class="card"></div>
                     <div class="text">
-                        <div class="bold">Powur</div>
-                        <span class="highlight">Ruby on Rails + Angular</span>
+                        <div class="bold">108 Emergency</div>
+                        <span class="highlight">Python and Android</span>
                     </div>
                     <div class="button" id="powur">LEARN MORE</div>
                 </div>
             </div>
 
 
-            <div class="mix node" data-my-order="1">
+            <div class="mix node cards" data-my-order="1">
                 <div>
                     <div class="card"></div>
                     <div class="text">
-                        <div class="bold">The Mall</div>
-                        <span class="highlight">Node + React.js</span>
+                        <div class="bold">Shazam for Fruits</div>
+                        <span class="highlight">Python and Android</span>
                     </div>
                     <div class="button" id="themall">LEARN MORE</div>
                 </div>
@@ -375,68 +382,63 @@
     <!-- BLOG -->
     <section id="blog">
         <div class="container flex">
-
-            <div class="header waypoint" data-animation="slide-in-left">BLOG</div>
+            <div class="header waypoint" data-animation="slide-in-left">RESUME</div>
+            <p>Professional and Educational Timeline</p>
             <div class="header-bar waypoint" data-animation="slide-in-left" data-delay=".5s"></div>
 
-            <div class="flex row wrap">
-                <div class="flex row-gt-sm">
-                    <a href="http://blog.eyecuelab.com/2016/04/29/breaking-your-coders-block/" target="_blank">
-                        <div class="blog-wrap waypoint" data-animation="fade-in">
-                            <div class="fade-wrap">
-                                <div class="thumb" id="thumb-1"></div>
-                                <div class="label bold">Breaking Your Coder's Block</div>
-                                <div class="date">APRIL 29, 2016</div>
-                                <div class="bar"></div>
-                                <div class="text">
-                                    At one time or another, as a developer, we've all found ourselves hopelessly stuck on a coding issue...
-                                </div>
+                <div class="row">
+                        <!-- What We Do Box 1 -->
+                        <div class="box box-wide waypoint" data-animation="slide-in-left">
+                            <i class="fa fa-code"></i>
+                            <div class="box-wide-inner">
+                                <h3 style="margin-bottom: 1px;">Fullstack Engineer</h3>
+                                <h5 style="margin-bottom: 1px; margin-top: 1px;">Orahi, Gurugram</h5>
+                                <h6 style="margin-bottom: 1px; margin-top: 1px;">Aug 2017 - Dec 2017</h6>
+                                <div class="uline"></div>
+                                <p>Worked as Fullstack Engineer</p>
                             </div>
                         </div>
-                    </a>
-                    <a href="http://blog.eyecuelab.com/2015/03/19/this-is-your-brain-on-caffeine/" target="_blank">
-                        <div class="blog-wrap waypoint" data-animation="fade-in" data-delay=".2s">
-                            <div class="fade-wrap">
-                                <div class="thumb" id="thumb-2"></div>
-                                <div class="label bold">!Awake: This is Your Brain on Caffeine</div>
-                                <div class="date">MARCH 19, 2015</div>
-                                <div class="bar"></div>
-                                <div class="text">
-                                    If there's one thing I can truly claim to be an expert on, it's staying awake. For five years I struggled to stay employed...
-                                </div>
+                        <!-- / END What We Do Box 1 -->
+                        <!-- What We Do Box 2 -->
+                        <div class="box box-wide waypoint" data-animation="slide-in-right">
+                            <i class="fa fa-laptop"></i>
+                            <div class="box-wide-inner">
+                                <h3 style="margin-bottom: 1px;">Product Engineering Intern</h3>
+                                <h5 style="margin-bottom: 1px; margin-top: 1px;">Hasura, Bangalore</h5>
+                                <h6 style="margin-bottom: 1px; margin-top: 1px;">May 2017 - Aug 2017</h6>
+                                <div class="uline"></div>
+                                <p>Worked as Product Engineer</p>
                             </div>
                         </div>
-                    </a>
-                </div>
-                <div class="flex row-gt-sm">
-                    <a href="http://blog.eyecuelab.com/2015/03/04/getting-a-handle-on-handlebars/" target="_blank">
-                        <div class="blog-wrap waypoint" data-animation="fade-in" data-delay=".4s">
-                            <div class="fade-wrap">
-                                <div class="thumb" id="thumb-3"></div>
-                                <div class="label bold">Getting a Handle on Handlebars</div>
-                                <div class="date">MARCH 04, 2015</div>
-                                <div class="bar"></div>
-                                <div class="text">
-                                    Here at EyeCue Lab we render most of our data-laden HTML pages in Handlebar templates...
-                                </div>
+                        <!-- / END What We Do Box 2 -->
+
+
+                        <!-- What We Do Box 3 -->
+                        <div class="box box-wide waypoint" data-animation="slide-in-left">
+                            <i class="fa fa-graduation-cap"></i>
+                            <div class="box-wide-inner">
+                                <h3 style="margin-bottom: 1px;">B.Tech. in Computer Science</h3>
+                                <h5 style="margin-bottom: 1px; margin-top: 1px;">Guru Gobind Singh Indraprastha University</h5>
+                                <h6 style="margin-bottom: 1px; margin-top: 1px;">2013 - 2017</h6>
+                                <div class="uline"></div>
+                                <p>Studied B.Tech. in Computer Science and Engineering</p>
                             </div>
                         </div>
-                    </a>
-                    <a href="http://blog.eyecuelab.com/2015/02/23/essential_extensions/" target="_blank">
-                        <div class="blog-wrap waypoint" data-animation="fade-in" data-delay=".6s">
-                            <div class="fade-wrap">
-                                <div class="thumb" id="thumb-4"></div>
-                                <div class="label bold">5 Extensions for Your Chrome Toolbelt</div>
-                                <div class="date">FEBRUARY 23, 2015</div>
-                                <div class="bar"></div>
-                                <div class="text">
-                                    If you're not using Google Chrome as a front-end web developer, you're missing out. Not only is Chrome the...
-                                </div>
+                        <!-- / END What We Do Box 3 -->
+                        <!-- What We Do Box 4 -->
+                        <div class="box box-wide waypoint" data-animation="slide-in-right">
+                            <i class="fa fa-graduation-cap"></i>
+                            <div class="box-wide-inner">
+                                <h3 style="margin-bottom: 1px;">High School and Secondary Education</h3>
+                                <h5 style="margin-bottom: 1px; margin-top: 1px;">The Heritage School</h5>
+                                <h6 style="margin-bottom: 1px; margin-top: 1px;">2003 - 2013</h6>
+                                <div class="uline"></div>
+                                <p>Studied at The Heritage School</p>
                             </div>
                         </div>
-                    </a>
-                </div>
-            </div>
+                        <!-- / END What We Do Box 4 -->
+                    </div>
+
         </div>
     </section>
 
