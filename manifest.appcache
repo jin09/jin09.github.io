@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#version 2.1
+#version 2.2
 
 CACHE:
 https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,600italic,300italic,400italic,300,700italic,800italic,800
@@ -25,10 +25,6 @@ fonts/mdi/css/materialdesignicons.min.css
 fonts/mdi/css/materialdesignicons.css.map
 fonts/mdi/css/materialdesignicons.min.css.map
 fonts/mdi/css/materialdesignicons.css
-fonts/mdi/preview.html
-fonts/mdi/package.json
-fonts/mdi/.bower.json
-fonts/mdi/bower.json
 fonts/Raleway-SemiBold.ttf
 fonts/audiowide-regular-webfont.woff2
 fonts/fontawesome-webfont.ttf
